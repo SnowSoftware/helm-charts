@@ -29,7 +29,7 @@ https://kubernetes.io/docs/tasks/tools/
 ## Prerequisites
 1. Add Snow Software Helm Charts repository:
 ```
-helm repo add snowsoftware https://snowsoftwareglobal.github.io/helm-charts
+helm repo add snowsoftware https://snowsoftware.github.io/helm-charts
 helm repo update
 ```
 2. Prepare required certificates
