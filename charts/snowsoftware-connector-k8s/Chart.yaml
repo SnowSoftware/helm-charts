@@ -1,6 +1,0 @@
-apiVersion: v2
-name: snowsoftware-connector-k8s
-description: A Helm chart for deploying the Snow Software k8s connector
-type: application
-version: 1.0.0
-appVersion: "v1.0.0"

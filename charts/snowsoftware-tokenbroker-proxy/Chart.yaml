@@ -1,5 +1,0 @@
-apiVersion: v2
-name: snowsoftware-tokenbroker-proxy
-description: Converts between Mutual TLS (MTLS) and OAuth2 based authentication
-version: 1.0.3
-type: application
